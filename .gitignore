@@ -1,0 +1,24 @@
+# Build directory
+/build/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+*.o
+*.obj
+*.exe
+*.out
+
+# Environment configuration file (if applicable)
+.env
+
+# Other user-specific files can be added here as needed.
