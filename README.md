@@ -3,6 +3,9 @@
 ## Overview
 This project implements an audio classification system that leverages the ONNX Runtime for efficient inference of a pre-trained model. The system processes audio files to extract relevant features using Short-Time Fourier Transform (STFT) to compute spectrograms, which are then fed into the model for classification.
 
+### Demo
+<img src="images/demo.JPG" alt="Audio Reverb" width="400"/>
+
 ## Key Features
 - **Audio File Handling**: Utilizes the AudioFile library to read audio samples from WAV files, ensuring compatibility with various audio formats.
 - **Spectrogram Computation**: Computes spectrograms from audio samples using KISS FFT, applying a Hanning window function to enhance frequency resolution.
