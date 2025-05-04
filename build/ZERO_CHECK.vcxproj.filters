@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\My Documents\DSPProjects\ONNXAudioClassifier\build\CMakeFiles\0b17ade48ecad593d1c3d6b37fdc68f3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F8FA17A2-8E76-3130-B1A0-0DCB67020A68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
